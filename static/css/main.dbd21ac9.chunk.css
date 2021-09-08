@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);*{margin:0;padding:0;box-sizing:border-box;font-family:"Montserrat"}#root{min-height:100vh;background-color:#22577a}.editor,.previewer{width:700px;height:800px;border-radius:10px}h1{color:#f0f8ff;text-decoration:underline}textarea{border-radius:10px}@media (max-width:768px){.editor{width:90%;height:300px}.previewer{width:90%;height:100%}}
+/*# sourceMappingURL=main.dbd21ac9.chunk.css.map */
